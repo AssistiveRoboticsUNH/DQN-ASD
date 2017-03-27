@@ -1,0 +1,4 @@
+sensor_msgs/PointCloud2[] msg_array
+uint32 num_seq
+---
+uint32[] points
